@@ -11,6 +11,6 @@ https://github.com/PORORIONLINETeam/PORORI-Team/blob/master/LICENCE.md
 유효기간: 무제한
 #### 2.2. 
 
-## 5. 문의
+## 3. 문의
 다음의 사이트를 통해 문의 바랍니다
 -http://plus.kakao.com/home/@포로리서버
