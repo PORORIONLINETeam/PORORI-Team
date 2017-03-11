@@ -34,4 +34,4 @@ copyright ⓒ PORORI-EULA All right reserved.
 
 ## 5. 문의
 다음의 사이트를 통해 문의 바랍니다
--http://plus.kakao.com/home/@포로리서버
+-http://plus.kakao.com/home/@포로리서
