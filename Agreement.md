@@ -8,9 +8,10 @@ https://github.com/PORORIONLINETeam/PORORI-Team/blob/master/LICENCE.md
 ## 2. 합의 이력
 #### 2.1. 포로리온라인
 합의일:2017.3.11
-유효기간: 무제한
-#### 2.2. 
-
+유효기간: ∞
+#### 2.2. LIKE 
+합의일:2017.3.11
+유효기간: 2018.1.3
 ## 3. 문의
 다음의 사이트를 통해 문의 바랍니다
 -http://plus.kakao.com/home/@포로리서버
